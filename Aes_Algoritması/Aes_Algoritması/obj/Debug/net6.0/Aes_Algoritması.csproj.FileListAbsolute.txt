@@ -1,0 +1,15 @@
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\bin\Debug\net6.0\Aes_Algoritması.exe
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\bin\Debug\net6.0\Aes_Algoritması.deps.json
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\bin\Debug\net6.0\Aes_Algoritması.runtimeconfig.json
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\bin\Debug\net6.0\Aes_Algoritması.dll
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\bin\Debug\net6.0\Aes_Algoritması.pdb
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\obj\Debug\net6.0\Aes_Algoritması.csproj.AssemblyReference.cache
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\obj\Debug\net6.0\Aes_Algoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\obj\Debug\net6.0\Aes_Algoritması.AssemblyInfoInputs.cache
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\obj\Debug\net6.0\Aes_Algoritması.AssemblyInfo.cs
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\obj\Debug\net6.0\Aes_Algoritması.csproj.CoreCompileInputs.cache
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\obj\Debug\net6.0\Aes_Algoritması.dll
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\obj\Debug\net6.0\refint\Aes_Algoritması.dll
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\obj\Debug\net6.0\Aes_Algoritması.pdb
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\obj\Debug\net6.0\Aes_Algoritması.genruntimeconfig.cache
+C:\Users\beyza\source\repos\Aes_Algoritması\Aes_Algoritması\obj\Debug\net6.0\ref\Aes_Algoritması.dll
